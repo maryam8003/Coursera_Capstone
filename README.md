@@ -1,2 +1,2 @@
 # Coursera_Capstone
-GitHub repository for a capstone project
+This is a GitHub repository for a coursera capstone project.
